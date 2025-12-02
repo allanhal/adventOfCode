@@ -1,0 +1,6 @@
+{
+  "watch": ["."],
+  "ext": "*",
+  "ignore": ["node_modules"],
+  "exec": "node day01/part-2.js"
+}
