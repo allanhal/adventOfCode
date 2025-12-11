@@ -2,5 +2,5 @@
   "watch": ["."],
   "ext": "*",
   "ignore": ["node_modules"],
-  "exec": "node index2.js"
+  "exec": "node index3.js"
 }
